@@ -17,28 +17,47 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Arduino based programming Teaching assistant"
+  company = "University of Chile"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Chile"
+  date_start = "2018-04-21"
+  date_end = "2018-08-18"
+  description = """Programming laboratories and circuits configuration"""
+
+[[experience]]
+  title = "Introduction to Robotics Teaching assistant"
+  company = "University of Chile"
+  company_url = ""
+  location = "Chile"
+  date_start = "2018-07-16"
+  date_end = "2018-07-22"
+  description = """Programming laboratories"""
+
+[[experience]]
+ title = "Algorithms and Data Structures Teaching assistant"
+ compayn = "University of Chile"
+ location = "Chile"
+ date_start = "2018-01-01"
+  date_end = "2019-07-14"
+  description = """Review Homeworks and Controles."""
+
+  [[experience]]
+ title = "Design and Programming Methodologies Teaching assistant"
+ compayn = "University of Chile"
+ location = "Chile"
+ date_start = "2019-03-12"
+  #date_end = "2019-07-14"
+  description = """Review Homeworks and Controles."""
+
+  [[experience]]
+ title = "Member of the Academic Evaluation Committee"
+ compayn = "Dep. of Computer Science of University of Chile"
+ location = "Chile"
+ date_start = "2018-12-10"
+  #date_end = ""
+  description = """Dep. of Computer Science of University of Chile """  
 
 +++
