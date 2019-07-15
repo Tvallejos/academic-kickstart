@@ -15,7 +15,7 @@ role: Civil Engineer in Computer Science student
 # Organizations/Affiliations
 organizations:
 - name: University of Chile
-  url: "www.uchile.cl"
+  url: "http://uchile.cl"
 #- Dep. of Computer Science
 
 
