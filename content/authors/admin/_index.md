@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Hi, i'm Tomas Vallejos a Civil Engineer in Computer Science student at University of Chile, some of my interests are data visualization, artificial intelligence and teaching which is my passion, i've got high teamwork cappacity and i'm always looking for new knowleadge
+Hi, i'm Tomas Vallejos a Civil Engineer in Computer Science student at University of Chile, some of my interests are data visualization, artificial intelligence and teaching which is my passion, i've got high teamwork cappacity and i'm always looking for new knowledge
